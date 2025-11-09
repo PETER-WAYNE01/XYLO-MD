@@ -15,7 +15,7 @@ const defaults = {
 
 let cache = {}
 
-const SESSION_ID = process.env.SESSION_ID || ''
+const SESSION_ID = process.env.SESSION_ID || 'DAVE-S*F=M4E5U9JIUI'
 cache.SESSION_ID = SESSION_ID 
 
 async function initConfig() {
